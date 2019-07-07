@@ -1,4 +1,4 @@
-# AdrenalinePoker
+# Adrenaline Poker
 
 A simple poker game.
 
@@ -20,9 +20,9 @@ Clone the repo.
 
 Open the index html file:
 
-```
-ap.html
-```
+	```
+	src/ap.html
+	```
 
 ## Deployment
 
