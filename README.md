@@ -20,9 +20,9 @@ Clone the repo.
 
 Open the index html file:
 
-	```
-	src/ap.html
-	```
+```
+src/ap.html
+```
 
 ## Deployment
 
